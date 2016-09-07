@@ -1,0 +1,8 @@
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+- 
+  group: "With support of"
+  elements: 
+    - {name: "Skcript", description: "Skcript", link: "https://www.skcript.com", imageUrl: "skcript.svg"}

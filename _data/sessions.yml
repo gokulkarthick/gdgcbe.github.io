@@ -1,0 +1,62 @@
+-
+  id: 1
+  title: "Registration"
+  language: en
+  complexity: "Beginner"
+  description: "The registrations will start exactly on time. There will be no on the spot registrations this time."
+-
+  id: 2
+  title: "Keynote"
+  subtype: keynote
+  language: en
+-
+  id: 3
+  title: "Security on Internet of Devices"
+  language: en
+  speakers: [2]
+  complexity: "Beginner"
+-
+  id: 4
+  title: "Tea Break"
+  place: "Dining room"
+  service: true
+-
+  id: 5
+  title: "Design Perfection"
+  speakers: [3]
+  language: en
+  complexity: "Expert"
+-
+  id: 6
+  title: "Firebase for developers"
+  speakers: [6]
+  language: en
+  complexity: "Beginner"
+-
+  id: 7
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 8
+  title: "How to measure Pirate Metrics with Firebase"
+  speakers: [5]
+  language: uk
+  complexity: "Beginner"
+-
+  id: 9
+  title: "Breaking a Million (on a Budget)"
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 10
+  title: "Tea Break"
+  place: "Dining room"
+  service: true
+
+-
+  id: 11
+  title: "Rascalas Perfomance"
+  language: en
+  complexity: "Beginner"

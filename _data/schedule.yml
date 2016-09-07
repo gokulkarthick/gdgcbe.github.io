@@ -1,0 +1,61 @@
+-
+  date: "2016-09-03"
+  dateReadable: "September 3rd"
+  tracks:
+    - {title: "Schedule", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "09:00",
+        sessionIds: [1]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "09:30",
+        sessionIds: [2]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:30",
+        sessionIds: [5]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "10:45",
+        sessionIds: [4]
+    }
+    - {
+        startTime: "10:45",
+        endTime: "11:45",
+        sessionIds: [9]
+    }
+    - {
+        startTime: "11:45",
+        endTime: "12:45",
+        sessionIds: [3]
+    }
+    - {
+        startTime: "12:45",
+        endTime: "13:30",
+        sessionIds: [7]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "14:30",
+        sessionIds: [8]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:30",
+        sessionIds: [11]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "15:45",
+        sessionIds: [10]
+    }
+    - {
+        startTime: "15:45",
+        endTime: "16:45",
+        sessionIds: [6]
+    }

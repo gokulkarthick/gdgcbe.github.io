@@ -1,0 +1,74 @@
+- 
+  id: 0
+  name: "Karthik"
+  surname: "K"
+  title: "Manager, GDG Chennai"
+  thumbnailUrl: karthik.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+KarthikK"}
+    - {name: "twitter", link: "https://twitter.com/ImKarthikK"}
+    - {name: "github", link: "https://github.com/ImKarthikK"}
+
+- 
+  id: 1
+  name: "Swaathi"
+  surname: "K"
+  title: "Manager, GDGChennai W"
+  thumbnailUrl: swaathi.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+SwaathiKakarla"}
+    - {name: "twitter", link: "https://twitter.com/imswaathik"}
+- 
+  id: 2
+  name: "Jeyanthan"
+  surname: " I"
+  title: "Software Engineer - SCM Support, CollabNet"
+  thumbnailUrl: jey.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+JeyanthanI"}
+    - {name: "github", link: "https://github.com/ijeyanthan"}
+
+- 
+  id: 4
+  name: "Varun"
+  surname: "Raj"
+  title: "Developer"
+  thumbnailUrl: varun.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+VarunRaj22"}
+    - {name: "twitter", link: "https://twitter.com/zathvarun"}
+    - {name: "github", link: "https://github.com/varun-raj"}
+    - {name: "facebook", link: "https://facebook.com/zathvarun"}
+
+- 
+  id: 5
+  name: "Harish"
+  surname: "Kumar"
+  title: "Developer"
+  thumbnailUrl: harish.jpg
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/prinston_manutd"}
+    - {name: "facebook", link: "https://facebook.com/harish.manutd.freako"}
+- 
+  id: 7
+  name: "Muthuramakrishnan"
+  surname: "Viswanthan"
+  title: "Developer"
+  thumbnailUrl: muthu.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MuthuRamakrishnan"}
+    - {name: "facebook", link: "https://www.facebook.com/siriscac"}
+    - {name: "twitter", link: "https://twitter.com/siriscac"}
+    - {name: "github", link: "https://github.com/siriscac"}

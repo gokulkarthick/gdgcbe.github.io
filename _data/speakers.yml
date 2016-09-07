@@ -1,0 +1,54 @@
+-
+  id: 2
+  name: "Arun Magesh"
+  surname: "Arun"
+  company: "Attify"
+  title: "Electrical Engineer"
+  thumbnailUrl: arun.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/marunmagesh"}
+-
+  id: 3
+  name: "Sonaal"
+  surname: "Bangera"
+  company: "NFN Labs"
+  title: "Co-Founder"
+  thumbnailUrl: sonal.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/sonaal"}
+-
+  id: 4
+  name: "Ashwin"
+  surname: "Shankar"
+  company: "TheWorks_AT"
+  title: "Managing Director"
+  bio: "Many-titled entrepreneur (@tbwontwtr & @theworksat), GBG Chennai Co-Organizer, geek, life observer, idea-a-minute machine, #footballaddict, #lfctillIdie, #ynwa"
+  thumbnailUrl: ashwin.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GBG", title: "Google Business Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "twitter", link: "http://twitter.com/shankspeaks"}
+-
+  id: 5
+  name: "Parul"
+  surname: "Soi"
+  company: "Google"
+  title: "‎Program Manager, Developer Relations"
+  thumbnailUrl: parul.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/parulsoi"}
+-
+  id: 6
+  name: "Muthuramakrishnan"
+  surname: "Viswanathan"
+  company: "Apigee Corporation"
+  title: "Full Stack Engineer"
+  bio: "Open Source Software Developer, Perfectionist, Technology Evangelist, UI/UX Designer, Philatelist"
+  thumbnailUrl: muthu.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/siris_cac"}
