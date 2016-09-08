@@ -6,8 +6,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest 2016 by GDG Coimbatore"
-email: "gk@criarsolutions.in"
-description: "GDG DevFest is a set of events all around the world. This time, in Chennai. Come join us, meet the Googlers and share what you know with others."
+email: "gokulkarthickct@gmail.com"
+description: "GDG DevFest is a set of events all around the world. This time, in Coimbatore. Come join us, meet the Googlers and share what you know with others."
 baseurl: ""
 url: "https://gokulkarthick.github.io/gdgcbe.github.io/"
 permalink: "/blog/:title"
@@ -15,23 +15,23 @@ googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "gokulkarthick.github.io/gdgcbe.github.io/"
 
 # Organizer Info
-organizerName: "GDG Chennai"
-organizerAlternateName: "Google Developer Group Chennai"
+organizerName: "GDG Coimbatore"
+organizerAlternateName: "Google Developer Group Coimbatore"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "karthik@skcript.com"
+organizerEmail: "gokulkarthickct@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdgchennai.com/"
+organizerLink: "http://./"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Chennai"
-twitterAccount: "@gdgchennai"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Coimbatore"
+twitterAccount: "@gdgCoimbatore"
 socialImageSrcGooglePlus: "/img/seo/hero.jpeg"
 socialImageSrcTwitter: "/img/seo/hero.jpeg"
 socialImageSrcFacebook: "/img/seo/hero.jpeg"
 
 # Documents
-c4pUrl: "mailto:karthik@skcript.com"
-c4sponsorsUrl: "mailto:karthik@skcript.com"
+c4pUrl: "mailto:gokulkarthickct@gmail.com"
+c4sponsorsUrl: "mailto:gokulkarthickct@gmail.com"
 
 
 # Navigation
@@ -47,7 +47,7 @@ heroImage: "hero.jpeg"
 heroTitle: "A day for "
 eventDate: "3rd of September 2016"
 typeoutTextValues: '"YOU", "designers", "programmers", "startups", "entrepreneurs"'
-typeoutFallback: "Chennai"
+typeoutFallback: "Coimbatore"
 heroButtons:
   - {link: "http://goo.gl/ddIXgR", text: "Request for invite here"}
 
@@ -56,7 +56,7 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Unconference", image: "hackathon.jpg", text: "A brilliant GDG Chennai's Signature Unconference. This year, its much bigger and there's a surprise for you." }
+ - {title: "Unconference", image: "hackathon.jpg", text: "A brilliant GDG Coimbatore's Signature Unconference. This year, its much bigger and there's a surprise for you." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -80,7 +80,7 @@ locationBlockTitle: "Location"
 eventLocationName: "E Hotel"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "Express Avenue Mall, Ground Floor, Gate No 1, Patullos Road"
-eventAddressLocality: "Chennai"
+eventAddressLocality: "Coimbatore"
 eventAddressLocalityRegion: "Tamil Nadu"
 eventPostalCode: "600002"
 eventAddressCountry: "India"
@@ -133,21 +133,21 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/communities/114880346511347814550", icon: "google-plus"}
- - {link: "https://twitter.com/GDGChennai", icon: "twitter"}
- - {link: "https://facebook.com/GDGChennai", icon: "facebook"}
+ - {link: "https://twitter.com/GDGCoimbatore", icon: "twitter"}
+ - {link: "https://facebook.com/GDGCoimbatore", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.gdgchennai.com", text: "GDG Chennai"}
+   - {link: "http://www.gdg.com", text: "GDG Coimbatore"}
    - {link: "https://developers.google.com/groups/pulse/India", text: "GDG India"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:karthik@skcript.com", text: "karthik@skcript.com"}
-   - {link: "mailto:swaathi@skcript.com", text: "swaathi@skcript.com"}
-   - {link: "mailto:varun@skcript.com", text: "varun@skcript.com"}
+   - {link: "mailto:gokulkarthickct@gmail.com", text: "gokulkarthickct@gmail.com"}
+   - {link: "mailto:", text: ""}
+   - {link: "mailto:", text: ""}
 
 
 # Speakers List Block
@@ -170,11 +170,11 @@ logisticsMapMobileCenterCoordinates: "13.058724, 80.2574503"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Chennai"
+directionDetailsTitle: "Get around Coimbatore"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right inside the City. It is easily reachable by car, public transport or taxi. More information is available at airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Chennai. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Chennai.'}
- - {title: "Hotels", information: 'Chennai has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Coimbatore. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Chennai.'}
+ - {title: "Hotels", information: 'Coimbatore has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
 
 
