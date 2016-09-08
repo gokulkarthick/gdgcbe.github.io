@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest 2016 by GDG Chennai"
+title: "GDG DevFest 2016 by GDG Coimbatore"
 email: "karthik@skcript.com"
 description: "GDG DevFest is a set of events all around the world. This time, in Chennai. Come join us, meet the Googlers and share what you know with others."
 baseurl: ""
