@@ -1,0 +1,180 @@
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+
+
+# Site Settings
+title: "GDG DevFest 2016 by GDG Chennai"
+email: "karthik@skcript.com"
+description: "GDG DevFest is a set of events all around the world. This time, in Chennai. Come join us, meet the Googlers and share what you know with others."
+baseurl: ""
+url: "http://devfest.gdgchennai.com"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-42775480-1"
+googleAnalyticsSiteUrl: "devfest.gdgchennai.com"
+
+# Organizer Info
+organizerName: "GDG Chennai"
+organizerAlternateName: "Google Developer Group Chennai"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "karthik@skcript.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://gdgchennai.com/"
+
+# Head
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Chennai"
+twitterAccount: "@gdgchennai"
+socialImageSrcGooglePlus: "/img/seo/hero.jpeg"
+socialImageSrcTwitter: "/img/seo/hero.jpeg"
+socialImageSrcFacebook: "/img/seo/hero.jpeg"
+
+# Documents
+c4pUrl: "mailto:karthik@skcript.com"
+c4sponsorsUrl: "mailto:karthik@skcript.com"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ # - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/logistics/", text: "Logistics"}
+# Hero Block
+heroImage: "hero.jpeg"
+heroTitle: "A day for "
+eventDate: "3rd of September 2016"
+typeoutTextValues: '"YOU", "designers", "programmers", "startups", "entrepreneurs"'
+typeoutFallback: "Chennai"
+heroButtons:
+  - {link: "http://goo.gl/ddIXgR", text: "Request for invite here"}
+
+# About Block
+aboutTitle: "About GDG DevFest"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Unconference", image: "hackathon.jpg", text: "A brilliant GDG Chennai's Signature Unconference. This year, its much bigger and there's a surprise for you." }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "2", specialCharacter: "", info: "Day", detail: "plus entertainment lounge"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "E Hotel"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "Express Avenue Mall, Ground Floor, Gate No 1, Patullos Road"
+eventAddressLocality: "Chennai"
+eventAddressLocalityRegion: "Tamil Nadu"
+eventPostalCode: "600002"
+eventAddressCountry: "India"
+eventStartTime: "2016-09-03T08:30"
+eventDoorTime: "09:00"
+eventEndTime: "2016-09-03T17:00"
+eventPlaceCoordinates: "13.0586092, 80.260926"
+mapCenterCoordinates: "13.058724, 80.2574503"
+mapMobileCenterCoordinates: "13.058724, 80.2574503"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_01.jpg"
+venueSmallImage1: "venue_01.jpg"
+venueSmallImage2: "venue_02.jpg"
+venueSmallImage3: "venue_03.jpg"
+venueTitle: "E Hotel"
+venueFeatures: ["In the heart of the city", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "devfestchn"
+twitterFeed: "http://www.varunraj.in/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "http://zathrac.us3.list-manage.com/subscribe/post?u=25748e12927120f75963019c3&amp;id=3ad8db8df7"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Registration"
+ticketsOffers:
+ -
+  name: "Conference Ticket"
+  price: "Invite Only"
+  buyButtonLink: "http://goo.gl/ddIXgR"
+  buyButtonText: "Request here"
+  ticketContentList: ["Conference on September 3rd"]
+  validFrom: "2014-11-10T23:59"
+  validThrough: "2016-08-29T23:59"
+
+
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/communities/114880346511347814550", icon: "google-plus"}
+ - {link: "https://twitter.com/GDGChennai", icon: "twitter"}
+ - {link: "https://facebook.com/GDGChennai", icon: "facebook"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://www.gdgchennai.com", text: "GDG Chennai"}
+   - {link: "https://developers.google.com/groups/pulse/India", text: "GDG India"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:karthik@skcript.com", text: "karthik@skcript.com"}
+   - {link: "mailto:swaathi@skcript.com", text: "swaathi@skcript.com"}
+   - {link: "mailto:varun@skcript.com", text: "varun@skcript.com"}
+
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "13.058724, 80.2574503"
+logisticsMapMobileCenterCoordinates: "13.058724, 80.2574503"
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Chennai"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Airport is right inside the City. It is easily reachable by car, public transport or taxi. More information is available at airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Chennai. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Chennai.'}
+ - {title: "Hotels", information: 'Chennai has lots of great hotels and hostels. More information will be available later.'}
+directionDetailsWideCards:
+
+
