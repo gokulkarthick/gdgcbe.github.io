@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Chennai", description: "GDG Chenani - By community for community", link: "http://www.gdgchennai.com/", imageUrl: "GDG_Chennai.svg"}
+    - {name: "GDG Coimbatore", description: "GDG Coimbatore - By community for community", link: "http://www.facebook.com/gdgcoimbatore", imageUrl: "GDG_Chennai.svg"}
 - 
   # group: "Co-organizers"
   # elements: 
