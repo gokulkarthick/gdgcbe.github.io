@@ -9,10 +9,10 @@ title: "GDG DevFest 2016 by GDG Coimbatore"
 email: "gokulkarthickct@gmail.com"
 description: "GDG DevFest is a set of events all around the world. This time, in Coimbatore. Come join us, meet the Googlers and share what you know with others."
 baseurl: ""
-url: "https://gokulkarthick.github.io/gdgcbe.github.io/"
+url: "https://gdgcbe.github.io/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: "gokulkarthick.github.io/gdgcbe.github.io/"
+googleAnalyticsSiteUrl: "gdgcbe.github.io/"
 
 # Organizer Info
 organizerName: "GDG Coimbatore"
@@ -20,7 +20,7 @@ organizerAlternateName: "Google Developer Group Coimbatore"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "gokulkarthickct@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://./"
+organizerLink: "http://facebook.com/gdgcoimbatore/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Coimbatore"
@@ -45,11 +45,11 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpeg"
 heroTitle: "A day for "
-eventDate: "3rd of September 2016"
-typeoutTextValues: '"YOU", "designers", "programmers", "startups", "entrepreneurs"'
+eventDate: "15th of October 2016"
+typeoutTextValues: '"YOU","Programmers","Designers","Entrepreneurs","Startups"'
 typeoutFallback: "Coimbatore"
 heroButtons:
-  - {link: "http://goo.gl/ddIXgR", text: "Request for invite here"}
+  - {link: "https://www.facebook.com/gdgcoimbatore", text: "Request for invite here"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -71,18 +71,18 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "E Hotel"
+eventLocationName: "Forge"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "Express Avenue Mall, Ground Floor, Gate No 1, Patullos Road"
+eventStreetAddress: "Forge, Kct Tech Park, Saravanapatti"
 eventAddressLocality: "Coimbatore"
 eventAddressLocalityRegion: "Tamil Nadu"
-eventPostalCode: "600002"
+eventPostalCode: "641006"
 eventAddressCountry: "India"
 eventStartTime: "2016-09-03T08:30"
 eventDoorTime: "09:00"
@@ -97,13 +97,13 @@ venueBigImage: "venue_01.jpg"
 venueSmallImage1: "venue_01.jpg"
 venueSmallImage2: "venue_02.jpg"
 venueSmallImage3: "venue_03.jpg"
-venueTitle: "E Hotel"
+venueTitle: "Forge"
 venueFeatures: ["In the heart of the city", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfestchn"
+twitterHashTag: "cbedevfest"
 twitterFeed: "http://www.varunraj.in/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
@@ -115,7 +115,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://zathrac.us3.list-manage.com/subscribe/post?u=25748e12927120f75963019c3&amp;id=3ad8db8df7"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around end of 11th Sep. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Registration"
@@ -123,16 +123,16 @@ ticketsOffers:
  -
   name: "Conference Ticket"
   price: "Invite Only"
-  buyButtonLink: "http://goo.gl/ddIXgR"
+  buyButtonLink: "facebook.com/gdgcoimbatore"
   buyButtonText: "Request here"
-  ticketContentList: ["Conference on September 3rd"]
+  ticketContentList: ["Conference on October 15th"]
   validFrom: "2014-11-10T23:59"
   validThrough: "2016-08-29T23:59"
 
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/communities/114880346511347814550", icon: "google-plus"}
+ - {link: "https://plus.google.com/communities/", icon: "google-plus"}
  - {link: "https://twitter.com/GDGCoimbatore", icon: "twitter"}
  - {link: "https://facebook.com/GDGCoimbatore", icon: "facebook"}
 footerBlocks:
