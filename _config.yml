@@ -6,13 +6,13 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest 2016 by GDG Coimbatore"
-email: "karthik@skcript.com"
+email: "gk@criarsolutions.in"
 description: "GDG DevFest is a set of events all around the world. This time, in Chennai. Come join us, meet the Googlers and share what you know with others."
 baseurl: ""
-url: "http://devfest.gdgchennai.com"
+url: "http://gokulkarthick/gdgcbe.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-42775480-1"
-googleAnalyticsSiteUrl: "devfest.gdgchennai.com"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: "gokulkarthick/gdgcbe.github.io"
 
 # Organizer Info
 organizerName: "GDG Chennai"
