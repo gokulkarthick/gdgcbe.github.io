@@ -32,12 +32,12 @@
   id: 5
   name: "Akash"
   surname: "Shukla"
-  company: "Google"
+  company: ""
   title: "‎Community Manager"
   thumbnailUrl: akash.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "http://twitter.com/akashshkl01"}
+    - {name: "twitter", link: "http://twitter.com/"}
 -
   id: 6
   name: "Siddarth"
