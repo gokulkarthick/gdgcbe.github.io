@@ -11,7 +11,7 @@
   language: en
 -
   id: 3
-  title: "Security on Internet of Devices"
+  title: "Git & Github"
   language: en
   speakers: [2]
   complexity: "Beginner"
@@ -22,13 +22,13 @@
   service: true
 -
   id: 5
-  title: "Design Perfection"
+  title: "Firebase For Developer"
   speakers: [3]
   language: en
-  complexity: "Expert"
+  complexity: "Beginner"
 -
   id: 6
-  title: "Firebase for developers"
+  title: "Connecting Smart Cities Using IoT"
   speakers: [6]
   language: en
   complexity: "Beginner"
@@ -39,16 +39,10 @@
   service: true
 -
   id: 8
-  title: "How to measure Pirate Metrics with Firebase"
+  title: "Engaging UX In Engineering"
   speakers: [5]
   language: uk
   complexity: "Beginner"
--
-  id: 9
-  title: "Breaking a Million (on a Budget)"
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
 -
   id: 10
   title: "Tea Break"
@@ -57,6 +51,6 @@
 
 -
   id: 11
-  title: "Rascalas Perfomance"
+  title: "MVB Bootcamp 101"
   language: en
   complexity: "Beginner"
