@@ -49,7 +49,7 @@ eventDate: "15th of October 2016"
 typeoutTextValues: '"YOU","Programmers","Designers","Entrepreneurs","Startups"'
 typeoutFallback: "Coimbatore"
 heroButtons:
-  - {link: "https://www.facebook.com/gdgcoimbatore", text: "Request for invite here"}
+  - {link: "https://goo.gl/forms/JKCLGy1LvqK5R1Mz1", text: "Request for invite here"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -94,11 +94,11 @@ mapMobileCenterCoordinates: "11.0809746,76.9887196"
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_01.jpg"
-venueSmallImage1: "venue_01.jpg"
+venueSmallImage1: "venue_04.jpg"
 venueSmallImage2: "venue_02.jpg"
 venueSmallImage3: "venue_03.jpg"
 venueTitle: "FORGE Accelerator"
-venueFeatures: ["In the heart of the city", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["In the heart of the city", "Dolby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -123,7 +123,7 @@ ticketsOffers:
  -
   name: "Conference Ticket"
   price: "Invite Only"
-  buyButtonLink: "facebook.com/gdgcoimbatore"
+  buyButtonLink: "https://goo.gl/forms/JKCLGy1LvqK5R1Mz1"
   buyButtonText: "Request here"
   ticketContentList: ["Conference on October 15th"]
   validFrom: "2016-09-18T23:59"
