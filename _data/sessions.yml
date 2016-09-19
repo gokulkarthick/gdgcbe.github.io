@@ -10,6 +10,7 @@
   subtype: keynote
   speakers: [5]
   language: en
+  complexity: "Beginner"
 -
   id: 3
   title: "Git & Github"
