@@ -11,64 +11,31 @@
     - {name: "google-plus", link: "https://google.com/+GokulKarthick"}
     - {name: "twitter", link: "https://twitter.com/Gokulkarthick"}
     - {name: "github", link: "https://github.com/Gokulkarthick"}
+    - {name: "facebook", link: "https://facebook.com/gokulkarthickct"}
 
-- 
+ - 
   id: 1
   name: "Siddarth"
   surname: "K"
-  title: "Manager, GDGChennai W"
+  title: "User Experience Designer, Starberry"
   thumbnailUrl: swaathi.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+SwaathiKakarla"}
-    - {name: "twitter", link: "https://twitter.com/imswaathik"}
+    - {name: "twitter", link: "https://twitter.com/S1DD4RTH"}
+    - {name: "facebook", link: "https://facebook.com/S1DD4RTH"}
 - 
   id: 2
   name: "Sathishkumar"
   surname: "A"
-  title: "Software Engineer - SCM Support, CollabNet"
+  title: "Go-to-Guy, Criar Solutions"
   thumbnailUrl: Sathish.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+JeyanthanI"}
-    - {name: "github", link: "https://github.com/ijeyanthan"}
+    - {name: "google-plus", link: "https://google.com/+SathishkumarA"}
+    - {name: "twitter", link: "https://twitter.com/yeahsathish"}
+    - {name: "facebook", link: "https://facebook.com/yeahsathish"}
 
-- 
-  id: 4
-  name: "Varun"
-  surname: "Raj"
-  title: "Developer"
-  thumbnailUrl: varun.jpg
-  team: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+VarunRaj22"}
-    - {name: "twitter", link: "https://twitter.com/zathvarun"}
-    - {name: "github", link: "https://github.com/varun-raj"}
-    - {name: "facebook", link: "https://facebook.com/zathvarun"}
-
-- 
-  id: 5
-  name: "Harish"
-  surname: "Kumar"
-  title: "Developer"
-  thumbnailUrl: harish.jpg
-  subTeam: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/prinston_manutd"}
-    - {name: "facebook", link: "https://facebook.com/harish.manutd.freako"}
-- 
-  id: 7
-  name: "Muthuramakrishnan"
-  surname: "Viswanthan"
-  title: "Developer"
-  thumbnailUrl: muthu.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MuthuRamakrishnan"}
-    - {name: "facebook", link: "https://www.facebook.com/siriscac"}
-    - {name: "twitter", link: "https://twitter.com/siriscac"}
-    - {name: "github", link: "https://github.com/siriscac"}
