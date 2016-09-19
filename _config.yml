@@ -11,7 +11,7 @@ description: "GDG DevFest is a set of events all around the world. This time, in
 baseurl: ""
 url: "https://gdgcbe.com/"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
+googleAnalyticsTrackingId: "UA-74191160-2"
 googleAnalyticsSiteUrl: "gdgcbe.com/"
 
 # Organizer Info
