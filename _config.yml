@@ -146,7 +146,6 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:gokulkarthickct@gmail.com", text: "gokulkarthickct@gmail.com"}
-socialLinks:
    - {link: "https://twitter.com/gokulkarthickct", icon: "twitter"}
    - {link: "https://facebook.com/gokulkarthickct", icon: "facebook"}
    - {link: "mailto:", text: ""}
