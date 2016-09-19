@@ -3,6 +3,10 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 - 
+  group: "Venue sponsor"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+- 
   group: "With support of"
   elements: 
     - {name: "Criar Solutions", description: "Criar Solutions", link: "https://www.criarsolutions.com", imageUrl: "Criar.png"}
