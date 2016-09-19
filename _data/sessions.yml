@@ -17,7 +17,7 @@
   complexity: "Beginner"
 -
   id: 4
-  title: "Tea Break"
+  title: "Cut - Tea Break"
   place: "Dining room"
   service: true
 -
@@ -45,7 +45,7 @@
   complexity: "Beginner"
 -
   id: 10
-  title: "Tea Break"
+  title: "Cut - Tea Break"
   place: "Dining room"
   service: true
 
