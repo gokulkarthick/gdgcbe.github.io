@@ -148,7 +148,7 @@ footerBlocks:
    - {link: "mailto:gokulkarthickct@gmail.com", text: "gokulkarthickct@gmail.com"}
    - {link: "https://twitter.com/gokulkarthickct", icon: "twitter"}
    - {link: "https://facebook.com/gokulkarthickct", icon: "facebook"}
-   - {<a href="tel:+91-90039523333">+91-9003952333</a>}
+   - <a href="tel:+91-90039523333">+91-9003952333</a>
    - {link: "mailto:", text: ""}
    - {link: "mailto:", text: ""}
 
