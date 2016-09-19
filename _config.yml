@@ -139,7 +139,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.gdg.com", text: "GDG Coimbatore"}
+   - {link: "http://www.gdgcbe.com", text: "GDG Coimbatore"}
    - {link: "https://developers.google.com/groups/pulse/India", text: "GDG India"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
