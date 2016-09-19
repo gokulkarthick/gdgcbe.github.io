@@ -1,20 +1,20 @@
 - 
   id: 0
-  name: "Karthik"
-  surname: "K"
-  title: "Manager, GDG Chennai"
-  thumbnailUrl: karthik.jpg
+  name: "Gokul Karthick"
+  surname: "E"
+  title: "Manager, GDG Coimbatore"
+  thumbnailUrl: Gk.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+KarthikK"}
-    - {name: "twitter", link: "https://twitter.com/ImKarthikK"}
-    - {name: "github", link: "https://github.com/ImKarthikK"}
+    - {name: "google-plus", link: "https://google.com/+GokulKarthick"}
+    - {name: "twitter", link: "https://twitter.com/Gokulkarthick"}
+    - {name: "github", link: "https://github.com/Gokulkarthick"}
 
 - 
   id: 1
-  name: "Swaathi"
+  name: "Siddarth"
   surname: "K"
   title: "Manager, GDGChennai W"
   thumbnailUrl: swaathi.jpg
@@ -26,10 +26,10 @@
     - {name: "twitter", link: "https://twitter.com/imswaathik"}
 - 
   id: 2
-  name: "Jeyanthan"
-  surname: " I"
+  name: "Sathishkumar"
+  surname: "A"
   title: "Software Engineer - SCM Support, CollabNet"
-  thumbnailUrl: jey.jpg
+  thumbnailUrl: sathish.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
