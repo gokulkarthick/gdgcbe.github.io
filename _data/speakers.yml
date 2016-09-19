@@ -48,3 +48,13 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/s1dd4rth"}
+-
+  id: 7
+  name: "Kiran"
+  surname: "Madhav"
+  company: "FORGE Accelerator"
+  title: ""
+  thumbnailUrl: kiran.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
