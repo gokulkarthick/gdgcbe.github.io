@@ -15,6 +15,7 @@
   language: en
   speakers: [2]
   complexity: "Beginner"
+  description: "The registrations will start exactly on time. There will be no on the spot registrations this time."
 -
   id: 4
   title: "Cut - Tea Break"
@@ -26,12 +27,14 @@
   speakers: [3]
   language: en
   complexity: "Beginner"
+  description: "The registrations will start exactly on time. There will be no on the spot registrations this time."
 -
   id: 6
   title: "Connecting Smart Cities Using IoT"
   speakers: [6]
   language: en
   complexity: "Beginner"
+  description: "The registrations will start exactly on time. There will be no on the spot registrations this time."
 -
   id: 7
   title: "Lunch Break"
@@ -43,6 +46,7 @@
   speakers: [5]
   language: uk
   complexity: "Beginner"
+  description: "The registrations will start exactly on time. There will be no on the spot registrations this time."
 -
   id: 10
   title: "Cut - Tea Break"
@@ -54,6 +58,7 @@
   title: "MVB Bootcamp 101"
   language: en
   complexity: "Beginner"
+  description: "The registrations will start exactly on time. There will be no on the spot registrations this time."
 -
   id: 12
   title: "PackUp"
