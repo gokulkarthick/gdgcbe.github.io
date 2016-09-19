@@ -1,4 +1,4 @@
-# DevFest 2014 by GDG Chennai's fork of Project Zeppelin
+# DevFest 2016 by GDG Coimbatore's fork of Project Zeppelin
 
 ### About 
 
