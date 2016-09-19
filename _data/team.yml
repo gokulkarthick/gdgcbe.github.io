@@ -3,7 +3,7 @@
   name: "Gokul Karthick"
   surname: "E"
   title: "Manager, GDG Coimbatore"
-  thumbnailUrl: Gk.jpg
+  thumbnailUrl: Gk.jpeg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -29,7 +29,7 @@
   name: "Sathishkumar"
   surname: "A"
   title: "Software Engineer - SCM Support, CollabNet"
-  thumbnailUrl: sathish.jpg
+  thumbnailUrl: Sathish.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
