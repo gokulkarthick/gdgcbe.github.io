@@ -1,54 +1,50 @@
 -
   id: 2
-  name: "Arun Magesh"
-  surname: "Arun"
-  company: "Attify"
-  title: "Electrical Engineer"
-  thumbnailUrl: arun.jpg
+  name: "Shubham"
+  surname: "Patel"
+  company: "Amazon"
+  title: "Software Development Engineer"
+  thumbnailUrl: patel.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/marunmagesh"}
+    - {name: "twitter", link: "https://twitter.com/shubhpatel108"}
 -
   id: 3
-  name: "Sonaal"
-  surname: "Bangera"
-  company: "NFN Labs"
-  title: "Co-Founder"
-  thumbnailUrl: sonal.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/sonaal"}
--
-  id: 4
-  name: "Ashwin"
-  surname: "Shankar"
-  company: "TheWorks_AT"
-  title: "Managing Director"
-  bio: "Many-titled entrepreneur (@tbwontwtr & @theworksat), GBG Chennai Co-Organizer, geek, life observer, idea-a-minute machine, #footballaddict, #lfctillIdie, #ynwa"
-  thumbnailUrl: ashwin.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GBG", title: "Google Business Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "twitter", link: "http://twitter.com/shankspeaks"}
--
-  id: 5
-  name: "Parul"
-  surname: "Soi"
-  company: "Google"
-  title: "‎Program Manager, Developer Relations"
-  thumbnailUrl: parul.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/parulsoi"}
--
-  id: 6
-  name: "Muthuramakrishnan"
-  surname: "Viswanathan"
-  company: "Apigee Corporation"
-  title: "Full Stack Engineer"
-  bio: "Open Source Software Developer, Perfectionist, Technology Evangelist, UI/UX Designer, Philatelist"
+  name: "Muthu Kumar"
+  surname: "GV"
+  company: "HTC Global Services"
+  title: "Strategist "
   thumbnailUrl: muthu.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/siris_cac"}
+    - {name: "twitter", link: "http://twitter.com/gvmuthu"}
+-
+  id: 4
+  name: "Gokul Raja"
+  surname: "Dhamodaran"
+  company: ""
+  title: ""
+  thumbnailUrl: gokul.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/GokulRaja"}
+-
+  id: 5
+  name: "Akash"
+  surname: "Shukla"
+  company: "Google"
+  title: "‎Community Manager"
+  thumbnailUrl: akash.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/akashshkl01"}
+-
+  id: 6
+  name: "Siddarth"
+  surname: "Kengadaran"
+  company: "Starberry"
+  title: "User Experience Designer"
+  thumbnailUrl: siddarth.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/s1dd4rth"}
