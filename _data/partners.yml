@@ -5,7 +5,7 @@
 - 
   group: "Venue sponsor"
   elements: 
-    - {name: "F", description: "F", link: "https://www.f.com", imageUrl: "google.svg"}
+    - {name: "F", description: "F", link: "https://www.f.com", imageUrl: "forge.jpg"}
 - 
   group: "With support of"
   elements: 
