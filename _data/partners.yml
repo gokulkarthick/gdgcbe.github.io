@@ -1,12 +1,12 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Google", description: "Google", link: "https://developers.google.com/", imageUrl: "google.svg"}
 - 
   group: "Venue sponsor"
   elements: 
-    - {name: "F", description: "F", link: "https://www.f.com", imageUrl: "forge.jpg"}
+    - {name: "Forge Accelerator", description: "Forge Accelerator", link: "http://www.forgeforward.in", imageUrl: "forge.jpg"}
 - 
   group: "With support of"
   elements: 
-    - {name: "Criar Solutions", description: "Criar Solutions", link: "https://www.criarsolutions.com", imageUrl: "Criar.png"}
+    - {name: "Criar Solutions", description: "Criar Solutions", link: "http://www.criarsolutions.com", imageUrl: "Criar.png"}
