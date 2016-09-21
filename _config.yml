@@ -12,7 +12,7 @@ baseurl: ""
 url: "https://gdgcbe.com/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-74191160-2"
-googleAnalyticsSiteUrl: "gdgcbe.com/"
+googleAnalyticsSiteUrl: "gdgcbe.com"
 
 # Organizer Info
 organizerName: "GDG Coimbatore"
