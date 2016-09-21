@@ -14,6 +14,21 @@
 			<ul>
 				{% for linkElement in block.links %}
 				<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
+					<div class="row">
+		<div class="col-md-6 col-xs-12">
+			<ul class="social-links">
+				{% for social in site.socialLinks %}
+				<li>
+					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
+						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
+						</svg>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
 				{% endfor %}
 			</ul>
 		</div>
