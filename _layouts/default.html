@@ -43,11 +43,11 @@
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5GUUaafdZ14wuVJFviXJ6UrEpITNgj2A&v=3.exp&sensor=false"><\/script>')
         } 
     </script>
     {% elsif page.permalink == '/logistics/' %}
-        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBOaI04FuU_68ZoQI-fKazPI9burnCSQTY&callback=initMap"> </script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5GUUaafdZ14wuVJFviXJ6UrEpITNgj2A&v=3.exp&libraries=places,geometry"></script>
     {% endif %} 
     <script>
         Waves.displayEffect();
