@@ -132,7 +132,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://developers.google.com/groups/chapter/107044365176730310412/", icon: "google-plus"}
+ - {link: "https://plus.google.com/+GdgcoimbatoreIn", icon: "google-plus"}
  - {link: "https://twitter.com/GDGCoimbatore", icon: "twitter"}
  - {link: "https://facebook.com/GDGCoimbatore", icon: "facebook"}
 footerBlocks:
@@ -141,12 +141,12 @@ footerBlocks:
   links:
    - {link: "http://www.gdgcbe.com", text: "GDG Coimbatore"}
    - {link: "https://developers.google.com/groups/pulse/India", text: "GDG India"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://developers.google.com/groups/chapter/107044365176730310412/", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "https://twitter.com/gokulkarthickct", icon: "twitter"}
-   - {link: "https://facebook.com/gokulkarthickct", icon: "facebook"}
+  - {link: "https://twitter.com/gokulkarthickct", icon: "twitter"}
+  - {link: "https://facebook.com/gokulkarthickct", icon: "facebook"}
    - {link: "mailto:gokulkarthickct@gmail.com", text: "gokulkarthickct@gmail.com"}
    - {link: "mailto:", text: ""}
 
