@@ -148,7 +148,8 @@ footerBlocks:
   links:
    - {link: "mailto:gokulkarthickct@gmail.com", text: "gokulkarthickct@gmail.com"}
    - {link: "mailto:", text: ""}
-   socialLinks1:
+
+socialLinks1:
  - {link: "https://plus.google.com/+Gokulkarthick", icon: "google-plus"}
  - {link: "https://twitter.com/gokulkarthickct", icon: "twitter"}
  - {link: "https://facebook.com/gokulkarthickct", icon: "facebook"}
