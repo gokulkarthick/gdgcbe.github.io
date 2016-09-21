@@ -145,8 +145,8 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-  - {link: "https://twitter.com/gokulkarthickct", icon: "twitter"}
-  - {link: "https://facebook.com/gokulkarthickct", icon: "facebook"}
+   - {link: "https://twitter.com/gokulkarthickct", icon: "twitter"}
+   - {link: "https://facebook.com/gokulkarthickct", icon: "facebook"}
    - {link: "mailto:gokulkarthickct@gmail.com", text: "gokulkarthickct@gmail.com"}
    - {link: "mailto:", text: ""}
 
