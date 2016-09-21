@@ -135,6 +135,10 @@ socialLinks:
  - {link: "https://plus.google.com/+GdgcoimbatoreIn", icon: "google-plus"}
  - {link: "https://twitter.com/GDGCoimbatore", icon: "twitter"}
  - {link: "https://facebook.com/GDGCoimbatore", icon: "facebook"}
+socialLinks1:
+ - {link: "https://plus.google.com/+Gokulkarthick", icon: "google-plus"}
+ - {link: "https://twitter.com/gokulkarthickct", icon: "twitter"}
+ - {link: "https://facebook.com/gokulkarthickct", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
