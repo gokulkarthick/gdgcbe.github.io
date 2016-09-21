@@ -125,9 +125,9 @@ ticketsOffers:
   price: "Invite Only"
   buyButtonLink: "https://goo.gl/forms/JKCLGy1LvqK5R1Mz1"
   buyButtonText: "Request here"
-  ticketContentList: ["Conference on October 10th"]
+  ticketContentList: ["Conference on October 15th"]
   validFrom: "2016-09-18T23:59"
-  validThrough: "2016-10-15T23:59"
+  validThrough: "2016-10-10T23:59"
 
 
 # Footer
