@@ -102,9 +102,9 @@ venueFeatures: ["In the heart of the city", "Dolby Digital Surround EX audio sys
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "What's Up Coimbatore?"
 twitterHashTag: "cbedevfest"
-twitterFeed: "http://www.varunraj.in/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
