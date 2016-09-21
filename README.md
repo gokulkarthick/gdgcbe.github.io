@@ -2,9 +2,6 @@
 
 ### About 
 
-### Known issues
-* Scrolling on open navbar
-
 ### Used libraries
 * [Bootstrap](https://github.com/twbs/bootstrap)
 * [Animate.css](https://github.com/daneden/animate.css)
