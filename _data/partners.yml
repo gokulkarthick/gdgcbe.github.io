@@ -3,10 +3,7 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://developers.google.com/", imageUrl: "google.svg"}
 - 
-  group: "Venue sponsor"
-  elements: 
-    - {name: "Forge Accelerator", description: "Forge Accelerator", link: "http://www.forgeforward.in", imageUrl: "forge.jpg"}
-- 
   group: "With the support of"
   elements: 
     - {name: "Criar Solutions", description: "Criar Solutions", link: "http://www.criarsolutions.com", imageUrl: "Criar.png"}
+    - {name: "Forge Accelerator", description: "Forge Accelerator", link: "http://www.forgeforward.in", imageUrl: "forge.jpg"}
