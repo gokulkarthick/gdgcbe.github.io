@@ -10,6 +10,7 @@ email: "gokulkarthickct@gmail.com"
 description: "GDG DevFest is a set of events all around the world. This time, in Coimbatore. Come join us, meet the Googlers and share what you know with others."
 baseurl: ""
 url: "https://gdgcbe.com/"
+enforce_ssl: gdgcbe.com
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-74191160-2"
 googleAnalyticsSiteUrl: "gdgcbe.com"
