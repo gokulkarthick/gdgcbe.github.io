@@ -50,11 +50,11 @@
     - {name: "twitter", link: "https://twitter.com/s1dd4rth"}
 -
   id: 7
-  name: "Kiran"
-  surname: "Madhav"
+  name: "Vishwanathan"
+  surname: "Sahasranamam"
   company: "FORGE Accelerator"
-  title: ""
+  title: "MVB Boot Camp"
   thumbnailUrl: kiran.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "twitter", link: "https://twitter.com/FORGE_FORCE"}
