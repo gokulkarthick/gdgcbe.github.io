@@ -47,7 +47,7 @@ navigationLinks:
 heroImage: "hero.jpeg"
 heroTitle: "A day for "
 eventDate: "15th of October 2016"
-typeoutTextValues: '"YOU","Programmers","Designers","Entrepreneurs","Startups"'
+typeoutTextValues: '"YOU","Programmers","Designers","Entrepreneurs","Startups","Students"'
 typeoutFallback: "Coimbatore"
 heroButtons:
   - {link: "https://goo.gl/forms/JKCLGy1LvqK5R1Mz1", text: "Request for invite here"}
@@ -105,7 +105,7 @@ venueFeatures: ["In the heart of the city", "Dolby Digital Surround EX audio sys
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up Coimbatore?"
 twitterHashTag: "cbedevfest"
-twitterFeed: ""
+twitterFeed: "http://criarsolutions.in/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
