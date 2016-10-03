@@ -1,7 +1,7 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://developers.google.com/", imageUrl: "google.svg"}
+    - {name: "Google", description: "Google", link: "https://developers.google.com/", imageUrl: "google.png"}
 - 
   group: "With the support of"
   elements: 
