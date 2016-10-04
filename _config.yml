@@ -178,7 +178,7 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Coimbatore"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right inside the City. It is easily reachable by car, public transport or taxi. More information is available at airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Coimbatore. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Chennai.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Coimbatore. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Coimbatore.'}
  - {title: "Hotels", information: 'Coimbatore has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
 
