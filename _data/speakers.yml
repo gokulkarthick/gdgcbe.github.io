@@ -1,4 +1,14 @@
 -
+  id: 1
+  name: "Akash"
+  surname: "Shukla"
+  company: "Google"
+  title: "‎Community Manager"
+  thumbnailUrl: akash.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/"}
+-
   id: 2
   name: "Shubham"
   surname: "Patel"
@@ -8,16 +18,6 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/shubhpatel108"}
--
-  id: 4
-  name: "Muthu Kumar"
-  surname: "GV"
-  company: "HTC Global Services"
-  title: "Strategist "
-  thumbnailUrl: muthu.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/gvmuthu"}
 -
   id: 3
   name: "Gokul"
@@ -29,15 +29,15 @@
   social:
     - {name: "twitter", link: "http://twitter.com/GokulRaja"}
 -
-  id: 1
-  name: "Akash"
-  surname: "Shukla"
-  company: ""
-  title: "‎Community Manager"
-  thumbnailUrl: akash.jpg
+  id: 4
+  name: "Muthu Kumar"
+  surname: "GV"
+  company: "HTC Global Services"
+  title: "Strategist "
+  thumbnailUrl: muthu.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/gvmuthu"}
 -
   id: 5
   name: "Siddarth"
