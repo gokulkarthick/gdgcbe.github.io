@@ -9,7 +9,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/shubhpatel108"}
 -
-  id: 3
+  id: 4
   name: "Muthu Kumar"
   surname: "GV"
   company: "HTC Global Services"
@@ -19,17 +19,17 @@
   social:
     - {name: "twitter", link: "http://twitter.com/gvmuthu"}
 -
-  id: 4
+  id: 3
   name: "Gokul"
   surname: "Dhamodaran"
-  company: ""
+  company: "i3 Solutions"
   title: ""
   thumbnailUrl: gokul.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/GokulRaja"}
 -
-  id: 5
+  id: 1
   name: "Akash"
   surname: "Shukla"
   company: ""
@@ -39,7 +39,7 @@
   social:
     - {name: "twitter", link: "http://twitter.com/"}
 -
-  id: 6
+  id: 5
   name: "Siddarth"
   surname: "Kengadaran"
   company: "Starberry"
@@ -49,7 +49,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/s1dd4rth"}
 -
-  id: 7
+  id: 6
   name: "Vishwanathan"
   surname: "Sahasranamam"
   company: "FORGE Accelerator"
