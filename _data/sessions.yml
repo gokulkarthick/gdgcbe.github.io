@@ -8,7 +8,7 @@
   id: 2
   title: "Action - Google Developer Ecosystem and Programs"
   subtype: keynote
-  speakers: [5]
+  speakers: [1]
   language: en
   complexity: "Beginner"
 -
@@ -26,14 +26,14 @@
 -
   id: 5
   title: "Firebase For Developer"
-  speakers: [4]
+  speakers: [3]
   language: en
   complexity: "Beginner"
   description: "Firebase is a cloud services provider and backend as a service. Firebase's primary product is a realtime database which provides an API that allows developers to store and sync data across multiple clients."
 -
   id: 6
   title: "Connecting Smart Cities Using IoT"
-  speakers: [3]
+  speakers: [4]
   language: en
   complexity: "Beginner"
   description: "The internet of things (IoT), is the internetworking of physical devices, vehicles (connected devices and smart devices), buildings and other items embedded with electronics, software, sensors, actuators, and network connectivity that enable these objects to collect and exchange data."
@@ -45,7 +45,7 @@
 -
   id: 8
   title: "Engaging UX In Engineering"
-  speakers: [6]
+  speakers: [5]
   language: en
   complexity: "Beginner"
   description: "User experience design (UX, UXD, UED or XD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and the product."
@@ -59,7 +59,7 @@
   id: 11
   title: "MVB Bootcamp 101"
   language: en
-  speakers: [7]
+  speakers: [6]
   complexity: "Beginner"
   description: "Minimum Viable Business is the smallest size/scale business that earns revenues predictably (revenue per time period) and repeatably (operating the same plan consistently)."
 -
