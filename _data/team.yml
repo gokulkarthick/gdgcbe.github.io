@@ -51,11 +51,56 @@
     - {name: "facebook", link: "https://facebook.com/mvimaljose"}
 - 
   id: 5
-  name: ""
-  surname: ""
+  name: "Bharath"
+  surname: "V"
   title: "Developer"
-  thumbnailUrl: .jpg
+  thumbnailUrl: bharath.jpg
   subTeam: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "facebook", link: "https://facebook.com/"}
+    - {name: "facebook", link: "https://facebook.com/Blackpearlz217"}
+- 
+  id: 6
+  name: "Ramki"
+  surname: ""
+  title: "Microsoft Student Partner & Firefox Student Ambassador"
+  thumbnailUrl: ramki.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/CRASH073"}
+- 
+  id: 7
+  name: "Praveen"
+  surname: "B"
+  title: "Developer"
+  thumbnailUrl: praveen.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/srirampraveen555"}
+- 
+  id: 8
+  name: "Jai Baski"
+  surname: ""
+  title: "Student @PSG"
+  thumbnailUrl: bose.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/jai.baski"}
+- 
+  id: 9
+  name: "Fahid"
+  surname: "M"
+  title: "Research Member at National Cyber Safety"
+  thumbnailUrl: fahid.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/fahidroid"}
+    
+- 
+  id: 10
+  name: "Arun Krish"
+  surname: ""
+  title: "Developer"
+  thumbnailUrl: arun.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/arun.krish.5"}
