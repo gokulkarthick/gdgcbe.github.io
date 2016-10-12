@@ -7,3 +7,4 @@
   elements: 
     - {name: "Criar Solutions", description: "Criar Solutions", link: "http://www.criarsolutions.com", imageUrl: "Criar.png"}
     - {name: "Forge Accelerator", description: "Forge Accelerator", link: "http://www.forgeforward.in", imageUrl: "forge.jpg"}
+    - {name: "Uber", description: "Uber", link: "https://www.uber.com", imageUrl: "uber.png"}
