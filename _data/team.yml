@@ -104,3 +104,21 @@
   subTeam: true
   social: 
     - {name: "facebook", link: "https://facebook.com/arun.krish.5"}
+- 
+  id: 11
+  name: "Swapnil"
+  surname: "Bhopathar"
+  title: "Photography"
+  thumbnailUrl: swapnil.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/swapnil.bhopatkar"}
+- 
+  id: 12
+  name: "Beniel Sam"
+  surname: ""
+  title: "Photography"
+  thumbnailUrl: beniel.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/BenielSam.M"}
