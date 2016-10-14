@@ -84,17 +84,7 @@
   thumbnailUrl: bose.jpg
   subTeam: true
   social: 
-    - {name: "facebook", link: "https://facebook.com/jai.baski"}
-- 
-  id: 9
-  name: "Fahid"
-  surname: "M"
-  title: "Research Member at National Cyber Safety"
-  thumbnailUrl: fahid.jpg
-  subTeam: true
-  social: 
-    - {name: "facebook", link: "https://facebook.com/fahidroid"}
-    
+    - {name: "facebook", link: "https://facebook.com/jai.baski"}  
 - 
   id: 10
   name: "Arun Krish"
