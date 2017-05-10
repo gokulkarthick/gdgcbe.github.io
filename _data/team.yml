@@ -39,15 +39,6 @@
     - {name: "twitter", link: "https://twitter.com/yeahsathish"}
     - {name: "facebook", link: "https://facebook.com/yeahsathish"}
 - 
-  id: 5
-  name: "Bharath"
-  surname: "V"
-  title: "Developer"
-  thumbnailUrl: bharath.jpg
-  subTeam: true
-  social: 
-    - {name: "facebook", link: "https://facebook.com/Blackpearlz217"}
-- 
   id: 6
   name: "Ramki"
   surname: ""
@@ -56,48 +47,4 @@
   subTeam: true
   social: 
     - {name: "facebook", link: "https://facebook.com/CRASH073"}
-- 
-  id: 7
-  name: "Praveen"
-  surname: "B"
-  title: "Developer"
-  thumbnailUrl: praveen.jpg
-  subTeam: true
-  social: 
-    - {name: "facebook", link: "https://facebook.com/srirampraveen555"}
-- 
-  id: 8
-  name: "Jai Baski"
-  surname: ""
-  title: "Student @PSG"
-  thumbnailUrl: bose.jpg
-  subTeam: true
-  social: 
-    - {name: "facebook", link: "https://facebook.com/jai.baski"}  
-- 
-  id: 10
-  name: "Arun Krish"
-  surname: ""
-  title: "Developer"
-  thumbnailUrl: arun.jpg
-  subTeam: true
-  social: 
-    - {name: "facebook", link: "https://facebook.com/arun.krish.5"}
-- 
-  id: 11
-  name: "Swapnil"
-  surname: "Bhopathar"
-  title: "Photography"
-  thumbnailUrl: swapnil.jpg
-  subTeam: true
-  social: 
-    - {name: "facebook", link: "https://facebook.com/swapnil.bhopatkar"}
-- 
-  id: 12
-  name: "Beniel Sam"
-  surname: ""
-  title: "Photography"
-  thumbnailUrl: beniel.jpg
-  subTeam: true
-  social: 
-    - {name: "facebook", link: "https://facebook.com/BenielSam.M"}
+
