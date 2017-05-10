@@ -39,17 +39,6 @@
     - {name: "twitter", link: "https://twitter.com/yeahsathish"}
     - {name: "facebook", link: "https://facebook.com/yeahsathish"}
 - 
-  id: 3
-  name: "Vimal"
-  surname: "Jose"
-  title: "Founder , Code Khadi"
-  thumbnailUrl: vimal.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "facebook", link: "https://facebook.com/mvimaljose"}
-- 
   id: 5
   name: "Bharath"
   surname: "V"
