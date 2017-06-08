@@ -56,4 +56,21 @@
   subTeam: true
   social: 
     - {name: "facebook", link: "https://facebook.com/srirampraveen555"}
-
+- 
+  id: 8
+  name: "Jai Baski"
+  surname: ""
+  title: "Student @PSG"
+  thumbnailUrl: bose.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/jai.baski"}  
+- 
+  id: 10
+  name: "Arun Krish"
+  surname: ""
+  title: "Developer"
+  thumbnailUrl: arun.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/arun.krish.5"}
