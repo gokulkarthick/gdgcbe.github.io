@@ -47,4 +47,13 @@
   subTeam: true
   social: 
     - {name: "facebook", link: "https://facebook.com/CRASH073"}
+-    
+  id: 7
+  name: "Praveen"
+  surname: "B"
+  title: "Developer"
+  thumbnailUrl: praveen.jpg
+  subTeam: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/srirampraveen555"}
 
